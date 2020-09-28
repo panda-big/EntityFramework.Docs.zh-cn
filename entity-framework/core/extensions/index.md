@@ -97,7 +97,7 @@ NeinLinq 扩展了 Entity Framewor 等 LINQ 提供程序，让用户能够使用
 
 ### <a name="microsoftentityframeworkcoreunitofwork"></a>Microsoft.EntityFrameworkCore.UnitOfWork
 
-Microsoft.EntityFrameworkCore 的一个插件，它支持存储库、工作模式单元，并支持多个具有具有所支持分布式事务的数据库。 对于 EF Core：2.
+Microsoft.EntityFrameworkCore 的一个插件，它支持存储库、工作模式单元，并支持多个具有具有所支持分布式事务的数据库。 对于 EF Core：2.2、3.1
 
 [GitHub 存储库](https://github.com/Arch/UnitOfWork/)
 
